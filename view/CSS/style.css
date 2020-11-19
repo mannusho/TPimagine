@@ -1,0 +1,39 @@
+*{
+    /* background-color: #59886b; */
+    font-family: 'Roboto', sans-serif;
+
+}
+
+/* HEADER */
+
+.jumbotron{
+    background-color: #ffa45b;
+    border-top-left-radius: 5px; 
+    border-top-right-radius: 5px;
+}
+
+
+/* PRINCIPAL */
+
+.form-group{
+    background-color: #ffda77;
+    border-top-left-radius: 5px; 
+    border-top-right-radius: 5px;
+}
+
+/* IMAGENES */
+
+
+.album{
+    background-color: #aee6e6;
+    border-top-left-radius: 5px; 
+    border-top-right-radius: 5px;
+}
+
+
+/* FOOTER */
+.text-muted {
+    background-color: #fbf6f0;
+    border-top-left-radius: 5px; 
+    border-top-right-radius: 5px;
+}
